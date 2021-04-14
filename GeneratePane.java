@@ -1,6 +1,5 @@
 // Assignment 6: ASU - CSE 205
 // Name: Joseph Kharzo
-// StudentID: 1218555299
 //Lecture Date and Time: TTH 1:30-2:45
 //  Description: GeneratePane creats a pane where a user can enter
 //  department information and create a list of available departments.
