@@ -1,6 +1,5 @@
 // Assignment 6: ASU - CSE 205
 // Name: Joseph Kharzo
-// StudentID: 1218555299
 //Lecture Date and Time: TTH 1:30-2:45
 //  Description: The Assignment6 class creates a Tabbed Pane with
 //               two tabs, one for Department Creation and one for
