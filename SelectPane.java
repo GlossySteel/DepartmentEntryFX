@@ -1,6 +1,5 @@
 // Assignment 6: ASU - CSE 205
 // Name: Joseph Kharzo
-// StudentID: 1218555299
 //Lecture Date and Time: TTH 1:30-2:45
 //  Description: SelectPane displays a list of available department
 //  from which a user can select and compute total number of faculties in multiple departments.
